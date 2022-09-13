@@ -5,7 +5,7 @@ $(document).ready(function () {
     recPerPage = 0,
     nextPageToken = "",
     totalPages = 0;
-  var API_KEY = "";
+  var API_KEY = "AIzaSyDz4nTdf-hY6uQZ-Hi_ah762upvqDmmnUI";
   var search = "";
   var duration = "any";
   var order = "relevance";
